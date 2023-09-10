@@ -1,3 +1,13 @@
+/**
+ * @file listing_2.2.cpp
+ * @author Master Yip (2205929492@qq.com)
+ * @brief Waiting for a thread to finish
+ * @version 0.1
+ * @date 2023-09-09
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 #include <thread>
 
 void do_something(int& i)
